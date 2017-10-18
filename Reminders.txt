@@ -1,0 +1,48 @@
+WIFI
+49DF797D9A4A
+
+
+CONACYT: 015553227700
+744934 - CVU CONACYT
+1247 -  Eduardo Aguilar Gómez - fondoenergiaext@conacyt.mx - Pagos de manutención, seguro médico, colegiatura, reembolso boleto de avión, seguimiento académico y administrativo. (Reemplaza a Monserrat Benitez 04/2017)
+Mandar comprobantes  $2000 USD vuelo redondo durante los primeros 7 dias 
+1218 - Karla Lara - subdireccion de asignacion de becas - (becasextenergia@conacyt.mx)
+
+
+DELFT:
+Patricia Carriongordon 3438
+59631 - DELFT Registration
+4626168 - StudentNumber Studielink (CVZ420jk..)
+6476.77.866 - BSN
+
+
+JUNTA CONACYT:
+Enviar a Monserrat y Manterreola los datos de pago de colegiatura. Recibo hecho  mi nombre personal.
+Enviar a Rocio Moreno y Monserrat información de vuelo para reeembolso. Itinerario, pases de abordar y recibo con costo.
+Al primer mes hay que subir un comprobante de inscripción a la universidad.
+Al primer semestre hay que enviar una evaluación de desempeño.
+
+
+Chicos, para los que cambiaran de tutor q les firme, tienen que pedirle a su nuevo tutor que les haga una carta membretada y con firma autógrafa diciendo que el será el q les de seguimiento, y enviarlo a conacyt, ya en conacyt cambiaran el nombre del tutor para q puedan imprimir el reporte nuevamente, y se los puedan firmar , el mail es acontreras@conacyt.mx se llama Alicia Contreras ext 1234 , bueno eso me dijo.
+
+
+International Office of the 3ME - Marion Van Eijick (Mo,Tu,Fri) 0152786753
+3me.internationaloffice@tudelft.nl
+Arranging exchange placements; Advising grants and scholarships; Open hours for questions and signing documents; Advise for students going abroad for internships.
+Changing subjects - Signing learning agreement and proof of stay. (5th of September 15:00 at International Office 3mE)
+
+
+Tu Puedes!
+The hole oh what could've been
+The oposite of love isnt hate its apathy
+En comun tenemos que al entrar al salon, Dejen sus problemas personales en la puerta.
+
+
+Windows 7 Audio Problems:
+had the same problem. The solution for me was to roll back the audio driver. Probably installing a new driver will have the same effect. To roll back the driver:
+>go to control panel->sound
+>right click the device you're trying to play from
+>click properties
+>(the next step will differ per device)
+>under the general tab, click properties
+>go to the driver tab and click roll back driver
